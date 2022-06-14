@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="error_message">Ошибка загрузки данных</string>
+    <string name="first_name">Имя: %1$s</string>
+    <string name="last_name">Фамилия: %1$s</string>
+    <string name="age">Возраст: %1$s лет</string>
+    <string name="birthday">Дата рождения: %1$s</string>
+    <string name="specialty">Специальность:</string>
+    <string name="label_employee_fragment">Данные работника</string>
+    <string name="label_employee_list_fragment">Список работников</string>
+    <string name="label_specialty_list_fragment">Специальности</string>
+
+</resources>
